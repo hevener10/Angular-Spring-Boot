@@ -6,8 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="full-stack-angular9-spring-boot" />
         <module name="vendas" />
+        <module name="full-stack-angular9-spring-boot" />
       </profile>
     </annotationProcessing>
   </component>
