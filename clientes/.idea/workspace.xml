@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee3a5263-502b-40ab-866a-d39953ac7426" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/hevener10/clientes/model/entity/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/hevener10/clientes/model/entity/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/hevener10/clientes/model/entity/Servico.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +95,7 @@
       <workItem from="1665329506235" duration="1100000" />
       <workItem from="1665330621504" duration="1318000" />
       <workItem from="1665339138072" duration="87000" />
-      <workItem from="1665339244086" duration="1037000" />
+      <workItem from="1665339244086" duration="1347000" />
     </task>
     <servers />
   </component>
