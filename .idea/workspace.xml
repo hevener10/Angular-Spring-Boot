@@ -4,20 +4,16 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7b4e2a83-d30d-4c83-ae32-6dab1c986d80" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/hevener10/model/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/hevener10/repository/ClientesRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/hevener10/service/ClientesService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application-development.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application-production.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+    <list default="true" id="7b4e2a83-d30d-4c83-ae32-6dab1c986d80" name="Default Changelist" comment="Criando multiplos perfils">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/hevener10/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/hevener10/AnimalConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/hevener10/Cachorro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/hevener10/Development.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/hevener10/Gato.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/github/hevener10/MinhaConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/hevener10/MinhaConfiguration.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/github/hevener10/VendasApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/hevener10/VendasApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/github/hevener10/MinhaConfiguration.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/github/hevener10/MinhaConfiguration.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/github/hevener10/VendasApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/github/hevener10/VendasApplication.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +23,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
+        <option value="AnnotationType" />
       </list>
     </option>
   </component>
@@ -143,8 +141,16 @@
       <workItem from="1664833038297" duration="2230000" />
       <workItem from="1664835546190" duration="449000" />
       <workItem from="1665180947473" duration="3509000" />
-      <workItem from="1665253908649" duration="6285000" />
+      <workItem from="1665253908649" duration="7647000" />
     </task>
+    <task id="LOCAL-00001" summary="Criando multiplos perfils">
+      <created>1665327427771</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665327427771</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,6 +167,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Criando multiplos perfils" />
+    <option name="LAST_COMMIT_MESSAGE" value="Criando multiplos perfils" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
