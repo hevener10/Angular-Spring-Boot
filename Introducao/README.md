@@ -1,6 +1,6 @@
 "# Angular 9 + Spring Boot 2.2: Fullstack Completo"
 
-Foi alterado a forma de ajusta guardar os arquivos do projeto devido a evolução do curso
+
  
 Desenvolvimento Fullstack com Angular 9 e Spring Boot 2
 Desenvolver RestFUL API com Spring Boot e Consumir com aplicação Angular
